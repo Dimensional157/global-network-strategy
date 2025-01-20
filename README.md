@@ -1,4 +1,4 @@
-# Creative Commons Global Network Strategy
+# Creative Commons Global Networks Strategy
 
 ## Code of conduct
 
